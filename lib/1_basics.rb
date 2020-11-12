@@ -8,7 +8,7 @@
 # Calculer en une ligne votre année de naissance en fonction de votre age en 2020
 
 # 4 - Déclarer une méthode
-# Ecrire une méthode qui, à partir de votre année de réponse et de votre prénom, retourne : 
+# Ecrire une méthode qui, à partir de votre année de naissance et de votre prénom, retourne : 
       # - "Bonjour, [votre prénom], en 2020 vous avez eu [age en 2020] ans."
 
 
