@@ -5,7 +5,7 @@
 #Déclarer une variable = votre année de naissance
 
 # 3 - Opération basique
-# Calculer en une ligne de votre année de naissance en fonction de votre age en 2020
+# Calculer en une ligne votre année de naissance en fonction de votre age en 2020
 
 # 4 - Déclarer une méthode
 # Ecrire une méthode qui, à partir de votre année de réponse et de votre prénom, retourne : 
