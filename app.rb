@@ -3,6 +3,8 @@ Bundler.require
 
 $:.unshift File.expand_path("./../lib", __FILE__)
 
+require '1_basics.rb'
+
 ## Here goes your code !
 
 ## You can create an object inside './lib/' => my_object.rb 
